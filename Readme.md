@@ -35,4 +35,6 @@ Note: for Windows use full path to the `data` instead of `` `pwd` ``
 
 4. Open Jupyter notebook in the browser: http://localhost:8888 and paste session token from the Terminal to login form.
 
-5. Try to run code blocks in the Notebook to test that everything works.
+![Session token](img/screen.png?raw=true)
+
+5. Open `spark-spacy.ipynb` notebook and try to run the code blocks to test that everything works fine.
