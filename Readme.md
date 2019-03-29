@@ -31,7 +31,7 @@ docker build -t spark-nlp-workshop .
 docker run -it --rm -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 -v `pwd`/data:/app/data -p 8888:8888 spark-nlp-workshop
 ```
 
-**Note: for Windows use `%cd%` instead of `` `pwd` `` to start the container**
+**Note: for Windows use `%cd%` or full path to the `data` directory instead of `` `pwd`/ `` to start the container**
 
 4. Open Jupyter notebook in the browser: http://localhost:8888 and paste session token from the Terminal to login form.
 
