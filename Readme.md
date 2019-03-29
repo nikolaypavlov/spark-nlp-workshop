@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-Docker version 18.09.+
+[Docker](https://www.docker.com/get-started) version 18.09.2+
 
 ### Installation
 
